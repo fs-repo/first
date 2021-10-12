@@ -1,3 +1,2 @@
 Uji Coba
 Arduino
-Bahasa C
